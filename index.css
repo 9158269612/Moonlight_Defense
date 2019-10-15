@@ -1,0 +1,74 @@
+	.body_div
+    {
+        background-image:url("https://images.unsplash.com/photo-1481819167214-0427aac02394?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1030&q=80");
+		background-repeat:no-repeat;
+		background-size:cover;
+		height:40vw;
+	D:\website_images
+	}
+	#order_content
+	{
+		height:height:55vw;
+	}
+	
+	ul 
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333;
+	}
+	#order,#contact,#menu,#about,#home, #login	
+	{
+		color:#F2CB05;
+	}
+
+	li
+	{
+		float: right;
+	}
+
+	li a 
+	{
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover 
+	{
+		background-color: #111;
+	}
+	#order
+	{
+		font-family: 'Lora', serif;
+	}
+    #about_content
+	{
+		height:100vw;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
